@@ -1,2 +1,2 @@
 test git brach...
-creating a branch is quick & simple.
+creating a branch is quick &-master simple.
