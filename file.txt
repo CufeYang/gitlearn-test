@@ -1,2 +1,3 @@
 git is an distribute version control system!
 git is created by linus
+git is free
