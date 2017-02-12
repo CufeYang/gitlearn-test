@@ -1,3 +1,4 @@
 git is an distribute version control system!
 git is created by linus
 git is free
+file .git is 版本库, which contains many things,the most important two is stage and the autocreated branch called master. stage is '暂存区', when do 'git add file' the file change is add to stage, when you add several files the stage contains the same num changes, when execute 'git commit -m ,,' all the changes in stage is commited to the master. 
